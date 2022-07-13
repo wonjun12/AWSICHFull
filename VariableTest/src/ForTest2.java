@@ -1,7 +1,7 @@
 
 public class ForTest2 {
 	public class Max {
-	    public static final int MAX_VALUE = 5;
+	    public static final int MAX_VALUE = 10;
 	}
 	public static void main(String[] args) {		
 		String str;
